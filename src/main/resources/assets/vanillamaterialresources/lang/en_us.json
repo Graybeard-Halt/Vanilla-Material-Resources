@@ -1,3 +1,7 @@
 {
-  "item.vanillamaterialresources.echo_ingot": "Echo Ingot"
+  "item.vanillamaterialresources.echo_ingot": "Echo Ingot",
+  "block.vanillamaterialresources.echo_block": "Echo Block",
+  "block.vanillamaterialresources.echo_ore": "Echo Ore"
+
+
 }

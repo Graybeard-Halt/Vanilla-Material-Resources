@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "vanillamaterialresources:block/echo_block"}
+  }
+}
