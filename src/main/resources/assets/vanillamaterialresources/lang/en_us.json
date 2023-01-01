@@ -1,7 +1,7 @@
 {
   "item.vanillamaterialresources.echo_ingot": "Echo Ingot",
   "block.vanillamaterialresources.echo_block": "Echo Block",
-  "block.vanillamaterialresources.echo_ore": "Echo Ore"
-
-
+  "block.vanillamaterialresources.echo_ore": "Echo Ore",
+  "block.vanillamaterialresources.deepslate_echo_ore": "Deepslate Echo Ore",
+  "block.vanillamaterialresources.netherrack_echo_ore": "Netherrack Echo Ore"
 }
