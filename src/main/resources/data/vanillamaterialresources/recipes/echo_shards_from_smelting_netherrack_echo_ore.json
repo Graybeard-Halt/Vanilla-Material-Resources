@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "echo",
+  "ingredient": {
+    "item": "vanillamaterialresources:netherrack_echo_ore"
+  },
+  "result": "vanillamaterialresources:echo_shard",
+  "experience": 1.5,
+  "cookingtime": 240
+}

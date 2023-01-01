@@ -9,6 +9,8 @@ import net.minecraft.util.registry.Registry;
 public class ModItems {
     public static final Item ECHO_INGOT = registerItem("echo_ingot",
             new Item(new FabricItemSettings().group(ModItemGroup.ECHO)));
+    public static final Item ECHO_SHARD = registerItem("echo_shard",
+            new Item(new FabricItemSettings().group(ModItemGroup.ECHO)));
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(VanillaMaterialResources.MOD_ID, name), item);
     }

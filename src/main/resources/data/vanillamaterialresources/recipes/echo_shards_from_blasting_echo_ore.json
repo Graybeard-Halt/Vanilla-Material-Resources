@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "echo",
+  "ingredient": {
+    "item": "vanillamaterialresources:echo_ore"
+  },
+  "result": "vanillamaterialresources:echo_shard",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "vanillamaterialresources:echo_ore",
+    "vanillamaterialresources:deepslate_echo_ore",
+    "vanillamaterialresources:netherrack_echo_ore"
+  ]
+}
